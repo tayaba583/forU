@@ -18,5 +18,5 @@ Route::get('/', function () {
 });  
 
 route::get('/home',function(){
-    return 'HOME PAGE';
+    return 'HOME';
 });
